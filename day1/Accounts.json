@@ -1,0 +1,65 @@
+[
+  {
+    "User_Id": "2",
+    "Account_ID": "115",
+    "AccountType": "Current Account",
+    "OverdraftorInterest": "100",
+    "Balance": "1000"
+  },
+  {
+    "User_Id": "3",
+    "Account_ID": "117",
+    "AccountType": "Current Account",
+    "OverdraftorInterest": "100",
+    "Balance": "1200"
+  },
+  {
+    "User_Id": "3",
+    "Account_ID": "118",
+    "AccountType": "Saving Account",
+    "OverdraftorInterest": "4.99",
+    "Balance": "3000"
+  },
+  {
+    "User_Id": "3",
+    "Account_ID": "121",
+    "AccountType": "Saving Account",
+    "OverdraftorInterest": "5.99",
+    "Balance": "2800"
+  },
+  {
+    "User_Id": "4",
+    "Account_ID": "119",
+    "AccountType": "Saving Account",
+    "OverdraftorInterest": "0.99",
+    "Balance": "200"
+  },
+  {
+    "User_Id": "4",
+    "Account_ID": "120",
+    "AccountType": "Saving Account",
+    "OverdraftorInterest": "4.99",
+    "Balance": "4500"
+  },
+  {
+    "User_Id": "2",
+    "Account_ID": "1524",
+    "AccountType": "Saving Account",
+    "OverdraftorInterest": "2",
+    "Balance": "100"
+  },
+  {
+    "User_Id": "2",
+    "Account_ID": "2455",
+    "AccountType": "Current Account",
+    "OverdraftorInterest": "0.5",
+    "Balance": "202"
+  },
+  {
+    "User_Id": "2",
+    "Account_ID": "47925",
+    "AccountType": "Savings Account",
+    "OverdraftorInterest": "2",
+    "Balance": "200"
+  }
+]
